@@ -13,14 +13,14 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-Passionate for creating user-centric websites and a dedication to promoting DEIB. <br>
+Passionate about creating user-centric websites and a dedication to promoting DEIB. <br>
 I am also an avid enthusiast of artificial intelligence, virtual reality,psychology, biohacking,<br>
 and constant self-improvement.
 <br>
 <br>
-- 👩🏾‍💻 I’m currently learning Python.
-- 🤝🏾 Open to work as front-end developer, coder or UX & UI designer. 
-- 💞️ I’m looking to collaborate on my project for kids excluded from society.
+- 👩🏾‍💻 I’m currently learning Python. <br>
+- 🤝🏾 Open to work as front-end developer, coder or UX & UI designer. <br>
+- 💞️ I’m looking to collaborate on my project for kids excluded from society.<br>
   <br>
 
 
