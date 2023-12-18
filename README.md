@@ -8,7 +8,7 @@ I am also an avid enthusiast of artificial intelligence, virtual reality,psychol
 - 💞️ I’m looking to collaborate on my project for kids excluded from society. 
 
 
-<p align="center"> ✨ My skillset so far. ✨ </p>
+## ✨ My skillset so far. ✨
 <p align="center">
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,19 +20,15 @@ I am also an avid enthusiast of artificial intelligence, virtual reality,psychol
 
 </p>
 
+##  ✨ Let's get in touch! ✨ 
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;" target="_blank" href="mailto:lindachristelle.n@gmail.com">
+			<img src="https://img.icons8.com/doodle/48/gmail.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/christelle-linda-natabou/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      </div>
+
 <!---
 xchristiesx/xchristiesx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-## Let's get in touch!
-<div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="mailto:adela.grnd@gmail.com">
-			<img src="https://img.icons8.com/doodle/48/gmail.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/adela-fialova/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/afialova">
-		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/_adelafialova">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-      </div>
