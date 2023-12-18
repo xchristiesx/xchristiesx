@@ -5,9 +5,9 @@
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
